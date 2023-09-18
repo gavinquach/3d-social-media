@@ -43,7 +43,7 @@ const Page = () => {
                                 <boxGeometry args={[0.6, 0.6, 0.6]} />
                                 <meshStandardMaterial color={0x00ff00} />
                             </mesh> */}
-                            <Common id="00" sky />
+                            <Common id="00" />
                         </Suspense>
                     </View>
                 </FeedContentContainer>
@@ -65,7 +65,7 @@ const Page = () => {
                                 <boxGeometry args={[0.6, 0.6, 0.6]} />
                                 <meshStandardMaterial color={0xffff00} />
                             </mesh> */}
-                            <Common id="01" sky />
+                            <Common id="01" />
                         </Suspense>
                     </View>
                 </FeedContentContainer>
@@ -88,7 +88,7 @@ const Page = () => {
                                 <boxGeometry args={[0.6, 0.6, 0.6]} />
                                 <meshStandardMaterial color={0xff00ff} />
                             </mesh> */}
-                            <Common id="02" sky />
+                            <Common id="02" />
                         </Suspense>
                     </View>
                 </FeedContentContainer>
